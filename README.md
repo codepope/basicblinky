@@ -1,7 +1,7 @@
 BasicBlinky
 ===========
 
-A simple LED Sparkler for the ESP32-C3FH3-RGB.
+A simple LED Sparkler for the ESP32-C3FH4-RGB.
 
 This is just a tweak on the example code around, but ported to Tinygo.
 
